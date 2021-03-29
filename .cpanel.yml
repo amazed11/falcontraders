@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/falcontr/public_html/falcontradersNepal/
+    - export DEPLOYPATH=/home/falcontr/public_html/
     - /bin/cp -R images $DEPLOYPATH
